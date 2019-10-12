@@ -1,0 +1,6 @@
+x = 1.5
+y = 1
+if x**2+y**2<=1:
+	print("yes")
+else:
+	print('no')
